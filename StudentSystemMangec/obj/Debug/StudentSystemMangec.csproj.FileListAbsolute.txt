@@ -1,0 +1,26 @@
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.csproj.AssemblyReference.cache
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.FormMain.resources
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.FormLogin.resources
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.Form3.resources
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.Properties.Resources.resources
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.csproj.GenerateResource.cache
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.csproj.CoreCompileInputs.cache
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\bin\Debug\StudentManagementSystem.exe.config
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\bin\Debug\StudentManagementSystem.exe
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\bin\Debug\StudentManagementSystem.pdb
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.war.resources
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentManagementSystem.exe
+D:\تصميماتي البرمجيه\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentManagementSystem.pdb
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\bin\Debug\StudentManagementSystem.exe.config
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\bin\Debug\StudentManagementSystem.exe
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\bin\Debug\StudentManagementSystem.pdb
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.csproj.AssemblyReference.cache
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.FormMain.resources
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.FormLogin.resources
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.Form3.resources
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.war.resources
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.Properties.Resources.resources
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.csproj.GenerateResource.cache
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentSystemMangec.csproj.CoreCompileInputs.cache
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentManagementSystem.exe
+D:\تصميماتي البرمجيه\Backup My Project\c#\windows form\StudentSystemMangec\StudentSystemMangec\obj\Debug\StudentManagementSystem.pdb
